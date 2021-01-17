@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-mainhead{
+#mainhead{
   font-family: Montserrat;
   text-align: center;
 }
-pmain{
+#pmain{
  font-family: Open Sans;
  text-align: center;
 }
