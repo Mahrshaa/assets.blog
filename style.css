@@ -3,8 +3,13 @@
 #mainhead{
   font-family: Montserrat;
   text-align: center;
+  color: white;
 }
 #pmain{
  font-family: Open Sans;
  text-align: center;
+ color: white;
+}
+body{
+background-color: black;
 }
