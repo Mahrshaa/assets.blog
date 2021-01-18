@@ -1,2 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+#maindownloadh1{
+ font-family: Montserrat;
+ text-align: center;
+}
+body{
+ background-color: black;
+ color: white;
+}
